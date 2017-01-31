@@ -1,0 +1,9 @@
+﻿<svg width="80x" height="120px" viewBox="0 0 80 120"  xmlns="http://www.w3.org/2000/svg">
+    <path stroke="#a11" stroke-width="1" fill="#c44"
+          d="M 40,0 q 40,0 40,40 c 0,35 -40,45 -40,80 c 0,-35 -40,-45 -40,-80 q 0,-40, 40,-40 z" />
+    
+    <text font-family="Arial" font-size="48" fill="#fff" x="47" y="58" text-anchor="middle">0</text>
+    <text font-family="Arial" font-size="44" fill="#fff" x="46" y="54" text-anchor="middle">777</text>
+    <text font-family="Arial" font-size="32" fill="blue" x="44" y="48" text-anchor="middle">4000</text>
+    <text font-family="Arial" font-size="32" fill="blue" x="44" y="40" text-anchor="middle">9999</text><text font-family="Arial" font-size="32" fill="blue" x="44" y="66" text-anchor="middle">+</text>
+</svg>

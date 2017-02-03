@@ -1,4 +1,3 @@
-
 (function (global) {
     System.config({
         paths: {"npm:":"https://rawgit.com/errisy/deploy/master/node_modules/","root:":"https://rawgit.com/errisy/deploy/master/"},

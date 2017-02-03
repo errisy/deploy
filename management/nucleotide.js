@@ -1,1 +1,0 @@
-"use strict";class Nucleotide{}exports.Nucleotide=Nucleotide;

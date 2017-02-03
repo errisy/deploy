@@ -1,1 +1,1 @@
-"use strict";class Dog{constructor(){this.Test="test property"}}exports.Dog=Dog;
+"use strict";function _classCallCheck(a,b){if(!(a instanceof b))throw new TypeError("Cannot call a class as a function")}var Dog=function a(){_classCallCheck(this,a),this.Test="test property"};exports.Dog=Dog;

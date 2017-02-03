@@ -1,1 +1,1 @@
-"use strict";var platform_browser_dynamic_1=require("@angular/platform-browser-dynamic"),management_module_1=require("management/management.module");platform_browser_dynamic_1.platformBrowserDynamic().bootstrapModule(management_module_1.ManagementModule);
+"use strict";var platform_browser_dynamic_1=require("@angular/platform-browser-dynamic"),core_1=require("@angular/core"),management_module_1=require("management/management.module");core_1.enableProdMode(),platform_browser_dynamic_1.platformBrowserDynamic().bootstrapModule(management_module_1.ManagementModule);

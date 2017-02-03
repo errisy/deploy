@@ -1,0 +1,1 @@
+'use strict';exports.Units=[{Name:'KG'},{Name:'Each'},{Name:'Box'},{Name:'Pack'},{Name:'Pair'},{Name:'Bag'},{Name:'Bunch'}],exports.TimeUnits=[{Name:'Day'},{Name:'Week'},{Name:'Fortnight'},{Name:'Month'},{Name:'Quarter'},{Name:'Year'}],exports.RealEstateUnits=[{Name:'Each'}],exports.FuelUnits=[{Name:'Liter'}];

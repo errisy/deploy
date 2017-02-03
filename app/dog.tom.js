@@ -1,0 +1,1 @@
+"use strict";class Dog{constructor(){this.Test="test property"}}exports.Dog=Dog;

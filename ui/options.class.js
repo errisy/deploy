@@ -1,0 +1,1 @@
+"use strict";var AutocompleteOptions=function(){return function(b){Object.assign(this,b)}}();exports.AutocompleteOptions=AutocompleteOptions;

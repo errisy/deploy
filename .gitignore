@@ -216,3 +216,6 @@ pip-log.txt
 #ts and map files
 *.ts
 *.map
+svg/.vs/slnx.sqlite
+svg/.vs/VSWorkspaceState.json
+svg/.vs/slnx.sqlite
